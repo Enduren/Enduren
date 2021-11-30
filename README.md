@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Enduren
-- 👀 I’m interested in learning javascript, C#, my sql, python and java
-- 🌱 I’m currently learning javascript, C#, my sql, python and java
-- 💞️ I’m looking to collaborate on javascript, C#, my sql, python and java
+- 👀 I’m interested in learning javascript, HTML, CSS, my sql, python and java
+- 🌱 I’m currently learning javascript, HTML, CSS, my sql, python and java
+- 💞️ I’m looking to collaborate on javascript,HTML, CSS, my sql, python and java
 - 📫 How to reach me dtennison79@gmail.com
 
 <!---

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Enduren
-- 👀 I’m interested in learning C#, javascript, HTML, CSS, my sql, python and java
-- 🌱 I’m currently learning C#,javascript, HTML, CSS, my sql, python and java
-- 💞️ I’m looking to collaborate on C#, javascript,HTML, CSS, my sql, python and java
+- 👀 I’m a QA software engineer that uses C#, javascript, HTML, CSS, my sql, and python
+- 🌱 when I have free time I create projects with C#,javascript, HTML, CSS, and python
+- 💞️ I’m looking to collaborate on C#, javascript,HTML, CSS, my sql and python
 - 📫 How to reach me dtennison79@gmail.com
 
 <!---

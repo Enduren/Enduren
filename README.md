@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Enduren
 - 👀 I’m a QA software engineer that uses C#, javascript, Java, and python
-- 🌱 when I have free time I create projects with C#,javascript, HTML, CSS, and python
+- 🌱 when I have free time I create projects with C#,javascript,Java , HTML, CSS, and python
 - 💞️ I’m looking to collaborate on C#, javascript,HTML, CSS,and python
 - 📫 How to reach me dtennison79@gmail.com
 
